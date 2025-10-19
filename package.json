@@ -1,6 +1,7 @@
 {
   "name": "third_app",
   "version": "0.1.0",
+  "homepage": "https://goutham22n.github.io/React",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
